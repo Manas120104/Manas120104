@@ -11,13 +11,13 @@
 ## 🎓 About Me
 
 🚀 **Final Year Computer Science Engineering Student** at **Vellore Institute of Technology, Chennai**  
-🔬 **Tech Enthusiast** passionate about AI/ML, GenAI, Large Language Models, Chatbots, NLP, and cutting-edge technologies  
+🔬 **Tech Enthusiast** passionate about Software Engineering, AI/ML, GenAI, Large Language Models, Chatbots, NLP, and cutting-edge technologies  
 💡 **Innovation-driven** with a focus on real-world applications  
 📊 **Published Researcher** in Nature's Scientific Reports Journal  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🌟 Core Interests
+### 🌟 Core Tech Interests
 I'm currently diving deep into:
 - 🤖 **Large Language Models (LLMs)**
 - ✨ **Generative AI & AI Content Creation**
@@ -33,38 +33,82 @@ I'm currently diving deep into:
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql" />
+  <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="#" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="#" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" /></a>
 </p>
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap" />
+  <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="#" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <a href="#" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="#" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="#" title="Oracle Database">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  </a>
+  <a href="#" title="Pinecone Vector Database">
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  </a>
 </p>
 
 ### 🤖 AI/ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <a href="#" title="PyTorch">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="#" title="Scikit-Learn">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+  <a href="#" title="Hugging Face">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="#" title="Streamlit">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </a>
+  <a href="#" title="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="#" title="NumPy">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="#" title="Matplotlib">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  </a>
+  <a href="#" title="Plotly">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  </a>
 </p>
 
 ### 🔧 Tools & Methodologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="#" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="#" title="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  </a>
+  <a href="#" title="Jira">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  </a>
+  <a href="#" title="Agile Methodology">
+    <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Agile" />
+  </a>
 </p>
 
 ---
@@ -110,27 +154,27 @@ I'm currently diving deep into:
 
 ### 🏥 [MedClarify](https://github.com/Manas120104/MedClarify)
 **AI-Powered Medical Information Assistant**
-- 🤖 Leverages LLMs for medical query resolution
+- 🤖 Leverages LLMs for medical query resolution & clinical report analysis in patient-friendly language.
 - 💊 Enhances healthcare accessibility through AI
 
 ### 🦋 [MBO-DEBERTA](https://github.com/Manas120104/MBO-DEBERTA)
 **Monarch Butterfly Optimized DeBERTa Model**
-- 🔬 Research implementation for fake review detection
+- 🔬 An optimized transformer architecture for online fake review detection
 - 🦋 Novel metaheuristic optimization approach
 
 ### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
 **Full-Stack MERN Application**
-- 🌐 Complete web application using MongoDB, Express, React, Node.js
+- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
 - 📱 Responsive design with modern UI/UX
 
 ### 📈 [AI-Powered Time Series Forecasting](https://github.com/Manas120104/AI-powered-Time-series-forecasting)
 **Predictive Analytics Solution**
 - 📊 Advanced time series analysis and forecasting
-- 🎯 Machine learning algorithms for accurate predictions
+- 🎯 Deep learning + Statistical approach for accurate predictions
 
 ---
 
-## 🌍 Languages
+## 🌍 Languages Known
 
 <p align="left">
   <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge" />
@@ -147,14 +191,14 @@ I'm currently diving deep into:
 </div>
 
 <p align="center">
-  <a href="mailto:manaskd2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:manaskd2019@gmail.com" title="Email: manaskd2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/manas-kamal-das-6ab73b31a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/manas-kamal-das-6ab73b31a/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Manas120104">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Manas120104" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
