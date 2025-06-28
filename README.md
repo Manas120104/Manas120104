@@ -135,7 +135,7 @@ I'm currently diving deep into:
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 📚 **Nature Scientific Reports (Q1 Journal)**
+### 📚 **Scientific Reports (Q1 Journal, SCIE & Scopus Indexed, Open Access)**
 **"High-Performance Fake Review Detection using Pretrained DeBERTa Optimized with Monarch Butterfly Paradigm"**
 - 🌟 **Impact Factor:** 3.8 (2023)
 - 🏅 **Ranking:** 5th most-cited journal worldwide
