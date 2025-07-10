@@ -20,8 +20,6 @@
 ### 🌟 Core Tech Interests
 I'm currently diving deep into:
 - 🤖 **Large Language Models (LLMs)**
-- ✨ **Generative AI & AI Content Creation**
-- 💬 **Chatbots & Conversational AI**
 - 📱 **Chat Applications & NLP Systems**
 - 🔄 **Transformer Architecture & Attention Mechanisms**
 - 📊 **Data Science & Analytics**
