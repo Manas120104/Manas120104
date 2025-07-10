@@ -25,7 +25,6 @@ I'm currently diving deep into:
 - 📊 **Data Science & Analytics**
 - 📈 **Machine Learning & Predictive Modeling**
 - 🧠 **Deep Learning & Neural Networks**
-- 🎯 **Artificial Intelligence**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
 ## 🛠️ Tech Stack
