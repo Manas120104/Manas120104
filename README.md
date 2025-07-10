@@ -24,8 +24,9 @@ I'm currently diving deep into:
 - 💬 **Chatbots & Conversational AI**
 - 📱 **Chat Applications & NLP Systems**
 - 🔄 **Transformer Architecture & Attention Mechanisms**
+- 📊 **Data Science & Analytics**
+- 📈 **Machine Learning & Predictive Modeling**
 - 🧠 **Deep Learning & Neural Networks**
-- 💬 **Natural Language Processing**
 - 🎯 **Artificial Intelligence**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
