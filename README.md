@@ -19,12 +19,12 @@
 
 ### 🌟 Core Tech Interests
 I'm currently diving deep into:
-- 🤖 **Large Language Models (LLMs)**
-- 📱 **GenAI & AI-Powered Chat Applications**
-- 🔄 **Transformer Architecture & Attention Mechanisms**
 - 📊 **Data Science & Analytics**
 - 📈 **Machine Learning & Predictive Modeling**
 - 🧠 **Deep Learning & Neural Networks**
+- 🤖 **Large Language Models (LLMs)**
+- 🔄 **Transformer Architecture & Attention Mechanisms**
+- 📱 **GenAI & AI-Powered Chat Applications**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
 ## 🛠️ Tech Stack
@@ -32,11 +32,11 @@ I'm currently diving deep into:
 ### 💻 Programming Languages
 <p align="left">
   <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" /></a>
   <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="#" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="#" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="#" title="SQL"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" /></a>
 </p>
 
 ### 🌐 Web Development
@@ -133,10 +133,10 @@ I'm currently diving deep into:
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 📚 **Scientific Reports (Q1 Journal, SCIE & Scopus Indexed, Open Access)**
+### 📚 **Scientific Reports (Q1 Journal, SCI & Scopus Indexed, Open Access)**
 **"High-Performance Fake Review Detection using Pretrained DeBERTa Optimized with Monarch Butterfly Paradigm"**
-- 🌟 **Impact Factor:** 3.8 (2023)
-- 🏅 **Ranking:** 5th most-cited journal worldwide
+- 🌟 **Impact Factor:** 3.9 (2024)
+- 🏅 **Ranking:** 3rd most-cited journal worldwide (2024)
 - 🔗 **Link:** [Nature Article](https://www.nature.com/articles/s41598-025-89453-8)
 
 ---
@@ -160,15 +160,15 @@ I'm currently diving deep into:
 - 🔬 An optimized transformer architecture for online fake review detection
 - 🦋 Novel metaheuristic optimization approach
 
-### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
-**Full-Stack MERN Application**
-- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
-- 📱 Responsive design with modern UI/UX
-
 ### 📈 [AI-Powered Time Series Forecasting](https://github.com/Manas120104/AI-powered-Time-series-forecasting)
 **Predictive Analytics Solution**
 - 📊 Advanced time series analysis and forecasting
 - 🎯 Deep learning + Statistical approach for accurate predictions
+
+### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
+**Full-Stack MERN Application**
+- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
+- 📱 Responsive design with modern UI/UX
 
 ---
 
