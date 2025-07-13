@@ -11,7 +11,7 @@
 ## 🎓 About Me
 
 🚀 **Final Year Computer Science Engineering Student** at **Vellore Institute of Technology, Chennai**  
-🔬 **Tech Enthusiast** passionate about Software Engineering, AI/ML, GenAI, Large Language Models, Chatbots, NLP, and cutting-edge technologies  
+🔬 **Tech Enthusiast** passionate about Data Science, AI/ML, Large Language Models, GenAI, Chatbots, NLP, and cutting-edge technologies  
 💡 **Innovation-driven** with a focus on real-world applications  
 📊 **Published Researcher** in Nature's Scientific Reports Journal  
 
