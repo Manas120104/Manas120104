@@ -72,6 +72,11 @@ I'm currently diving deep into:
 - 📊 Advanced time series analysis and forecasting
 - 🎯 Deep learning + Statistical approach for accurate predictions
 
+### 📈 [ML-Based Crop Recommender System](https://github.com/Manas120104/Crop-Recommendation-ML)
+**Recommendation System**
+- 📊 Crop Recommendation based on Machine Learning
+- 🎯 ML algorithms trained over agricultural dataset consisting of environmental and soil properties
+
 ### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
 **Full-Stack MERN Application**
 - 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
