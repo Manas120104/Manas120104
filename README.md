@@ -27,6 +27,58 @@ I'm currently diving deep into:
 - 📱 **GenAI & AI-Powered Chat Applications**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
+---
+
+## 🏆 Featured Publication
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+### 📚 **IEEE Access (Q1 Journal, SCI & Scopus Indexed, Open Access)**
+**"A Temporal Attention-Based SARIMA–BiLSTM Residual Learning Model Tuned by Grey Wolf Optimizer for Parallel Urban Traffic Forecasting"**
+- 🌟 **Impact Factor:** 3.6 (2024)
+- 🔗 **Link:** [IEEE Article](https://ieeexplore.ieee.org/document/11083601)
+
+### 📚 **Scientific Reports (Q1 Journal, SCI & Scopus Indexed, Open Access)**
+**"High-Performance Fake Review Detection using Pretrained DeBERTa Optimized with Monarch Butterfly Paradigm"**
+- 🌟 **Impact Factor:** 3.9 (2024)
+- 🏅 **Ranking:** 3rd most-cited journal worldwide (2024)
+- 🔗 **Link:** [Nature Article](https://www.nature.com/articles/s41598-025-89453-8)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
+### 🏥 [MedClarify](https://github.com/Manas120104/MedClarify)
+**AI-Powered Medical Information Assistant**
+- 🤖 Leverages LLMs for medical query resolution & clinical report analysis in patient-friendly language.
+- 💊 Enhances healthcare accessibility through AI
+
+### 🦋 [MBO-DEBERTA](https://github.com/Manas120104/MBO-DEBERTA)
+**Monarch Butterfly Optimized DeBERTa Model**
+- 🔬 An optimized transformer architecture for online fake review detection
+- 🦋 Novel metaheuristic optimization approach
+
+### 📈 [AI-Powered Time Series Forecasting](https://github.com/Manas120104/AI-powered-Time-series-forecasting)
+**Predictive Analytics Solution**
+- 📊 Advanced time series analysis and forecasting
+- 🎯 Deep learning + Statistical approach for accurate predictions
+
+### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
+**Full-Stack MERN Application**
+- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
+- 📱 Responsive design with modern UI/UX
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -124,53 +176,6 @@ I'm currently diving deep into:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas120104&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-## 🏆 Featured Publication
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-### 📚 **Scientific Reports (Q1 Journal, SCI & Scopus Indexed, Open Access)**
-**"High-Performance Fake Review Detection using Pretrained DeBERTa Optimized with Monarch Butterfly Paradigm"**
-- 🌟 **Impact Factor:** 3.9 (2024)
-- 🏅 **Ranking:** 3rd most-cited journal worldwide (2024)
-- 🔗 **Link:** [Nature Article](https://www.nature.com/articles/s41598-025-89453-8)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-### 🏥 [MedClarify](https://github.com/Manas120104/MedClarify)
-**AI-Powered Medical Information Assistant**
-- 🤖 Leverages LLMs for medical query resolution & clinical report analysis in patient-friendly language.
-- 💊 Enhances healthcare accessibility through AI
-
-### 🦋 [MBO-DEBERTA](https://github.com/Manas120104/MBO-DEBERTA)
-**Monarch Butterfly Optimized DeBERTa Model**
-- 🔬 An optimized transformer architecture for online fake review detection
-- 🦋 Novel metaheuristic optimization approach
-
-### 📈 [AI-Powered Time Series Forecasting](https://github.com/Manas120104/AI-powered-Time-series-forecasting)
-**Predictive Analytics Solution**
-- 📊 Advanced time series analysis and forecasting
-- 🎯 Deep learning + Statistical approach for accurate predictions
-
-### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
-**Full-Stack MERN Application**
-- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
-- 📱 Responsive design with modern UI/UX
-
----
 
 ## 🌍 Languages Known
 
