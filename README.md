@@ -72,6 +72,11 @@ I'm currently diving deep into:
 - 📊 Advanced time series analysis and forecasting
 - 🎯 Deep learning + Statistical approach for accurate predictions
 
+### 🌱 [Deep Learning Driven Predictive AI for Medicinal Properties](https://github.com/Manas120104/Plant-Extract)
+**Predictive AI**
+- 🧠 Advanced neural architectures to predict medicinal properties of copper nanoparticles synthesized from plant extracts
+- 🤖 Models: Gradient Boosted Neural Networks (NN), Bagged NN, LSTM, GRU, RNN, Multitask and Single task Feedforward NN, Multitask and Single task TabNet
+
 ### 🌾 [ML-Based Crop Recommender System](https://github.com/Manas120104/Crop-Recommendation-ML)
 **Recommendation System**
 - 🌱 Crop Recommendation based on Machine Learning
