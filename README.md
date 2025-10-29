@@ -34,13 +34,82 @@
 I'm currently diving deep into:
 - 📱 **GenAI & AI-Powered Chat Applications**
 - 📊 **Data Science & Analytics**
+- 🤖 **Large Language Models (LLMs)**
+- 🔍 **Retrieval Augmented Generation (RAG)**
 - 📈 **Machine Learning & Predictive Modeling**
 - 🧠 **Deep Learning & Neural Networks**
-- 🤖 **Large Language Models (LLMs)**
 - 🔄 **Transformer Architecture & Attention Mechanisms**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
 ---
+## 🚀 My Top Projects (Highly Recommended)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
+---
+
+### 🏥 MedClarify: A Healthcare GenAI Assistant for Health Claim Verification and Clinical Report Analysis  
+### [🔗 View Project](https://github.com/Manas120104/MedClarify)  
+**Healthcare AI Solution**  
+- 🤖 Leverages **LLMs** and **RAG** for medical query resolution and clinical report summarization in patient-friendly language.  
+- 💊 Enhances healthcare accessibility through **Generative AI**.  
+
+---
+
+### 🚦 Hybrid AI Pipeline for High-Performance Real-Time Urban Traffic Forecasting  
+### [🔗 View Project](https://github.com/Manas120104/AI-powered-Time-series-forecasting)  
+**Predictive Analytics Solution**  
+- 📊 Integrates **statistical** and **deep learning** models in a hybrid time-series forecasting pipeline to predict urban traffic flows.  
+- 🎯 Utilizes **parallel processing** for optimized real-time execution.  
+
+---
+
+### 🦋 MBO-DeBERTa: Optimized DeBERTa Transformer Model for AI-Powered E-Commerce Fake Review Detection  
+### [🔗 View Project](https://github.com/Manas120104/MBO-DEBERTA)  
+**Business AI Solution**  
+- 🔬 Implements an optimized **DeBERTa** transformer architecture for detecting fake reviews in e-commerce platforms.  
+- 🦋 Employs a **metaheuristic optimization** approach for robust hyperparameter tuning and improved model accuracy.  
+
+---
+
+### 🧠 AI-Powered E-Commerce Product Recommender  
+### [🔗 View Project](https://github.com/Manas120104/ecommerce-recommender/tree/main/ecommerce-recommender)  
+**Personalized AI-Driven Recommendation System**  
+- 🛒 Builds an **AI-powered recommender engine** that provides real-time product suggestions based on user interactions and preferences.  
+- ⚙️ Integrates **content-based** and **collaborative filtering** with **GenAI-driven explanation generation** for transparent recommendations.  
+- 📈 Designed for **scalability** and **high-performance inference** in e-commerce environments.  
+
+---
+
+### 🌱 Predicting Medicinal Properties of Plant Extracts with Advanced Neural Network Architectures  
+### [🔗 View Project](https://github.com/Manas120104/Plant-Extract)  
+**Predictive Healthcare AI Solution**  
+- 🧠 Employs advanced neural network (NN) architectures to predict medicinal properties of **copper nanoparticles synthesized from plant extracts**.  
+- 🤖 Includes **Gradient Boosted NN**, **Bagged NN**, **LSTM**, **GRU**, **RNN**, **Feedforward NN**, and **TabNet** (both multitask and single-task).  
+
+---
+
+### 🌾 AI/ML-Powered Intelligent Crop Recommendation  
+### [🔗 View Project](https://github.com/Manas120104/Crop-Recommendation-ML)  
+**AI-Driven Recommendation System**  
+- 🌱 Develops a machine learning-based intelligent crop recommendation system.  
+- 🌡️ Trains models on agricultural datasets comprising **environmental** and **soil** properties.  
+
+---
+
+### 💻 Secure Full Stack Online Complaint Registration and Management System  
+### [🔗 View Project](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)  
+**Full-Stack MERN Application**  
+- 🌐 End-to-end secure web application built using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
+- 📱 Features a responsive and modern **UI/UX** design.  
+
+---
+
 
 ## 🏆 Featured Publication
 
@@ -58,47 +127,6 @@ I'm currently diving deep into:
 - 🌟 **Impact Factor:** 3.9 (2024)
 - 🏅 **Ranking:** 3rd most-cited journal worldwide (2024)
 - 🔗 **Link:** [Nature Article](https://www.nature.com/articles/s41598-025-89453-8)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-### 🏥 [MedClarify](https://github.com/Manas120104/MedClarify)
-**AI-Powered Medical Information Assistant**
-- 🤖 Leverages LLMs for medical query resolution & clinical report analysis in patient-friendly language.
-- 💊 Enhances healthcare accessibility through AI
-
-### 🦋 [MBO-DEBERTA](https://github.com/Manas120104/MBO-DEBERTA)
-**Monarch Butterfly Optimized DeBERTa Model**
-- 🔬 An optimized transformer architecture for online fake review detection
-- 🦋 Novel metaheuristic optimization approach
-
-### 📈 [AI-Powered Time Series Forecasting](https://github.com/Manas120104/AI-powered-Time-series-forecasting)
-**Predictive Analytics Solution**
-- 📊 Advanced time series analysis and forecasting
-- 🎯 Deep learning + Statistical approach for accurate predictions
-
-### 🌱 [Deep Learning Driven Predictive AI for Medicinal Properties](https://github.com/Manas120104/Plant-Extract)
-**Predictive AI**
-- 🧠 Advanced neural architectures to predict medicinal properties of copper nanoparticles synthesized from plant extracts
-- 🤖 Models: Gradient Boosted Neural Networks (NN), Bagged NN, LSTM, GRU, RNN, Multitask and Single task Feedforward NN, Multitask and Single task TabNet
-
-### 🌾 [ML-Based Crop Recommender System](https://github.com/Manas120104/Crop-Recommendation-ML)
-**Recommendation System**
-- 🌱 Crop Recommendation based on Machine Learning
-- 🌡️ ML algorithms trained over agricultural dataset consisting of environmental and soil properties
-
-### 💻 [Online Complaint Management System](https://github.com/Manas120104/Online-Complaint-Management-and-Registration-Website-using-MERN-Stack)
-**Full-Stack MERN Application**
-- 🌐 Complete web application using MongoDB, Express.js, React.js, Node.js
-- 📱 Responsive design with modern UI/UX
 
 ---
 
