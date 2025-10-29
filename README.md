@@ -13,9 +13,22 @@
 🚀 **Final Year Computer Science Engineering Student** at **Vellore Institute of Technology, Chennai**  
 🔬 **Tech Enthusiast** passionate about Data Science, AI/ML, Large Language Models, GenAI, Chatbots, NLP, and cutting-edge technologies  
 💡 **Innovation-driven** with a focus on real-world applications  
-📊 **Published Researcher** in Nature's Scientific Reports Journal  
+📊 **Published Researcher** in Nature's Scientific Reports & IEEE Access Journals 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<h3 align="center">📄 My Resume</h3>
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Manas120104/Manas120104@main/resume/Manas_Das_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge" alt="Resume Button">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the button above to view or download my latest resume.</em>
+</p>
+
 
 ### 🌟 Core Tech Interests
 I'm currently diving deep into:
