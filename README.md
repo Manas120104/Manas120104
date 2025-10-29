@@ -1,7 +1,7 @@
 # Hi there, I'm Manas Kamal Das! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Research+Publication+Author+%F0%9F%93%9A;Final+Year+CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=GenAI+Enthusiast+%F0%9F%A4%96;AI%2FML+Enthusiast+%F0%9F%A4%97;Data+Science+%26+Analytics+Enthusiast+%F0%9F%93%88;Published+Researcher+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 ## 🎓 About Me
 
-🚀 **Final Year Computer Science Engineering Student** at **Vellore Institute of Technology, Chennai**  
-🔬 **Tech Enthusiast** passionate about Data Science, AI/ML, Large Language Models, GenAI, Chatbots, NLP, and cutting-edge technologies  
+🚀 **Final Year Computer Science & Engineering Student** at **Vellore Institute of Technology, Chennai**  
+🔬 **Tech Enthusiast** passionate about GenAI, Large Language Models, AI/ML, NLP, Computer Vision, Data Science & Analytics, and various other cutting-edge technologies  
 💡 **Innovation-driven** with a focus on real-world applications  
 📊 **Published Researcher** in Nature's Scientific Reports & IEEE Access Journals 
 
@@ -32,12 +32,12 @@
 
 ### 🌟 Core Tech Interests
 I'm currently diving deep into:
+- 📱 **GenAI & AI-Powered Chat Applications**
 - 📊 **Data Science & Analytics**
 - 📈 **Machine Learning & Predictive Modeling**
 - 🧠 **Deep Learning & Neural Networks**
 - 🤖 **Large Language Models (LLMs)**
 - 🔄 **Transformer Architecture & Attention Mechanisms**
-- 📱 **GenAI & AI-Powered Chat Applications**
 - 🦋 **Metaheuristic Optimization Algorithms**
 
 ---
