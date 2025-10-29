@@ -20,7 +20,7 @@
 <h3 align="center">📄 My Resume</h3>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/Manas120104/Manas120104@main/resume/Manas_Das_Resume.pdf" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/Manas120104/Manas120104@main/resume/Resume_Manas Kamal Das.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge" alt="Resume Button">
   </a>
 </p>
