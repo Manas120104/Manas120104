@@ -17,16 +17,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="center">📄 My Resume</h3>
+<h2 align="center">📄 My Resume</h2>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/Manas120104/Manas120104@main/resume/Resume_Manas Kamal Das.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge" alt="Resume Button">
+  <a href="https://cdn.jsdelivr.net/gh/Manas120104/Manas120104@main/resume/Resume_Manas%20Kamal%20Das.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20My%20Resume-0056D2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Button" width="250">
   </a>
 </p>
 
 <p align="center">
-  <em>Click the button above to view or download my latest resume.</em>
+  <em>📥 Click the button above to view or download my latest resume.</em>
 </p>
 
 
